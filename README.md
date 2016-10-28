@@ -22,9 +22,7 @@ Endpoint used: http://api.themoviedb.org/3/movie/now_playing
 
 ## App Demo:
 
-<img src="https://github.com/Monte9/MovieGuide-Android/blob/master/MovieGuide.png" width="150">
-
-![MovieGuide demo](MovieGuide.png =90x)
+<img src="https://github.com/Monte9/MovieGuide-Android/blob/master/MovieGuide.png" width="300">
 
 ## Resources:
 
