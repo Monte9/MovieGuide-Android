@@ -22,6 +22,8 @@ Endpoint used: http://api.themoviedb.org/3/movie/now_playing
 
 ## App Demo:
 
+<img src="https://github.com/Monte9/MovieGuide-Android/blob/master/MovieGuide.png" width="150">
+
 ![MovieGuide demo](MovieGuide.png =90x)
 
 ## Resources:
@@ -47,5 +49,5 @@ Endpoint used: http://api.themoviedb.org/3/movie/now_playing
 [https://github.com/square/okhttp/wiki/Recipes](https://github.com/square/okhttp/wiki/Recipes)
 
 # Notes:
-
+ss
 Android is alright! I need to work with it more.
