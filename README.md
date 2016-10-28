@@ -47,5 +47,4 @@ Endpoint used: http://api.themoviedb.org/3/movie/now_playing
 [https://github.com/square/okhttp/wiki/Recipes](https://github.com/square/okhttp/wiki/Recipes)
 
 # Notes:
-ss
 Android is alright! I need to work with it more.
