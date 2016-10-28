@@ -22,29 +22,29 @@ Endpoint used: http://api.themoviedb.org/3/movie/now_playing
 
 ## App Demo:
 
-![MovieGuide demo](MovieGuide.png)
+![MovieGuide demo](MovieGuide.png =90x)
 
 ## Resources:
 
-![https://guides.codepath.com/android/Basic-Todo-App-Tutorial](https://guides.codepath.com/android/Basic-Todo-App-Tutorial)
+[https://guides.codepath.com/android/Basic-Todo-App-Tutorial](https://guides.codepath.com/android/Basic-Todo-App-Tutorial)
 
-![https://guides.codepath.com/android/Displaying-Images-with-the-Picasso-Library](https://guides.codepath.com/android/Displaying-Images-with-the-Picasso-Library)
+[https://guides.codepath.com/android/Displaying-Images-with-the-Picasso-Library](https://guides.codepath.com/android/Displaying-Images-with-the-Picasso-Library)
 
-![https://guides.codepath.com/android/Constructing-View-Layouts](https://guides.codepath.com/android/Constructing-View-Layouts)
+[https://guides.codepath.com/android/Constructing-View-Layouts](https://guides.codepath.com/android/Constructing-View-Layouts)
 
-![https://github.com/codepath/android_guides/wiki/Using-an-ArrayAdapter-with-ListView](https://github.com/codepath/android_guides/wiki/Using-an-ArrayAdapter-with-ListView)
+[https://github.com/codepath/android_guides/wiki/Using-an-ArrayAdapter-with-ListView](https://github.com/codepath/android_guides/wiki/Using-an-ArrayAdapter-with-ListView)
 
-![https://guides.codepath.com/android/Using-a-BaseAdapter-with-ListView](https://guides.codepath.com/android/Using-a-BaseAdapter-with-ListView)
+[https://guides.codepath.com/android/Using-a-BaseAdapter-with-ListView](https://guides.codepath.com/android/Using-a-BaseAdapter-with-ListView)
 
-![http://stackoverflow.com/questions/22988412/android-loopj-asynchttpclient-parsing-json-example](http://stackoverflow.com/questions/22988412/android-loopj-asynchttpclient-parsing-json-example)
+[http://stackoverflow.com/questions/22988412/android-loopj-asynchttpclient-parsing-json-example](http://stackoverflow.com/questions/22988412/android-loopj-asynchttpclient-parsing-json-example)
 
-![https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed](https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed)
+[https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed](https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed)
 
-![https://github.com/codepath/android_guides/wiki/Consuming-APIs-with-Retrofit#automated-approach---auto-generating-the-java-objects](https://github.com/codepath/android_guides/wiki/Consuming-APIs-with-Retrofit#automated-approach---auto-generating-the-java-objects)
+[https://github.com/codepath/android_guides/wiki/Consuming-APIs-with-Retrofit#automated-approach---auto-generating-the-java-objects](https://github.com/codepath/android_guides/wiki/Consuming-APIs-with-Retrofit#automated-approach---auto-generating-the-java-objects)
 
-![https://guides.codepath.com/android/Leveraging-the-Gson-Library#android-async-http-client](https://guides.codepath.com/android/Leveraging-the-Gson-Library#android-async-http-client)
+[https://guides.codepath.com/android/Leveraging-the-Gson-Library#android-async-http-client](https://guides.codepath.com/android/Leveraging-the-Gson-Library#android-async-http-client)
 
-![https://github.com/square/okhttp/wiki/Recipes](https://github.com/square/okhttp/wiki/Recipes)
+[https://github.com/square/okhttp/wiki/Recipes](https://github.com/square/okhttp/wiki/Recipes)
 
 # Notes:
 
